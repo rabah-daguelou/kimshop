@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(blue, green, yellow, blue);
+    height: 100vh; 
+    
+}
+
+h1{
+    color: aliceblue;
+}
+
+/* divProducts */
+#divProducts {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.productCard{
+    width: 320px;
+    height: 320px;
+    background-color: rgb(233, 224, 232);
+    margin: 10px;
+    border-radius: 10px 10px 0px 0px;
+    overflow-y:auto;
+}
+
+#divProducts .productCard img {
+    width:320px;
+    height: 200px;
+    border-radius: 10px 10px 0px 0px;
+
+}
+.productNamePrice{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    background-color: azure;
+}
+
+.productDescription{
+   margin: 10px;
+   text-align: justify;
+}
