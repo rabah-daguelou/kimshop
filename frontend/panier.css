@@ -1,0 +1,69 @@
+h1{
+    margin-top: 120px;
+}
+
+.productCard{
+    height: 300px;
+    width:250px;
+    background-color: rgb(222, 251, 246);
+    border-radius: 10px 10px 0px 0px;
+    overflow-y:auto;
+    box-shadow: 3px 3px 5px black;
+    text-align: center;
+    
+}
+
+.productCard img {
+    border-radius: 10px 10px 0px 0px;
+    width:230px;
+    height: 150px;
+}
+
+/**/
+
+
+.plus{
+    background-color: rgb(9, 157, 23);
+
+}
+.moins{
+    background-color: red;
+
+}
+
+.plus, .moins{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    line-height: 15px;
+    border: 0;
+    color: white;
+}
+
+.productNamePrice1{
+    background-color: rgb(195, 193, 193);
+    border-radius:0 0 5px 5px;
+}
+/* bouton commander*/
+
+.commander {
+    display: block;
+    width:150px;
+    height: 50px;
+    
+    margin: 20px auto;
+    letter-spacing: 1px;
+    font-weight: bold;
+    background-color: #fff;
+    color: black;
+    border-color: black;
+    
+}
+.commander:hover{
+    background-color: #000;
+    color: #fff;
+    border-color: #fff;
+}
+
+

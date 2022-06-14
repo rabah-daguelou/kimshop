@@ -1,0 +1,44 @@
+
+.ul1, .ulLine{
+    margin-bottom: -40px;
+    border-bottom: 3px solid black;
+    border-radius: 0;
+}
+.ul1, .ulLine, .total {
+    width: 90%;
+    height: 60px;
+    background-color: rgb(181, 183, 185);
+    line-height: 60px;
+
+}
+.ul1 li, .ulLine li {
+    width: 20%;
+    border-left: 1px solid black;
+    text-align: center;
+
+}
+.ul1 li:first-child, .ulLine li:first-child{
+    border-left: none;
+}
+
+.ulLine li img {
+    width: 80%;
+    height: 45px;
+}
+
+.total {
+    background-color: black;
+    color: #fff;
+    border-radius: 0 0 5px 5px;
+}
+
+/* Formulaire */ 
+label{
+    
+    margin: 0 30%;
+    font-weight: bold;
+}
+.form-group .form-control {
+    
+    border-color: rgb(19, 18, 18);
+}

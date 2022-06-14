@@ -1,0 +1,42 @@
+
+.productCard{
+    margin: 60px auto 10px;
+}
+.productNamePrice{
+    display: flex;
+    justify-content:space-between;
+    padding: 10px;
+    background-color: azure;
+}
+
+/*formulaire*/
+
+.formulaire {
+    width: 320px;
+    text-align: center;
+    background-color: azure;
+    margin: 10px auto;
+    padding: 10px;
+}
+
+.formulaire input{
+    width: 60%;
+    margin-bottom: 15px;
+}
+
+.ajoutRetourPanier{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.btn a{
+    color: black;
+}
+
+.btn a:hover{
+    text-decoration:none;
+    color: black;
+}
+
+/*fin formulaire*/

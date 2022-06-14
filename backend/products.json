@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "productName": "kim1",
+        "productImage": "images/kim1.jpg",
+        "productPrice": 5,
+        "productDescription": "Ce produit vous est recommandé !"
+    },
+
+    {
+        "id":2,
+        "productName": "kim2",
+        "productImage": "images/kim2.jpg",
+        "productPrice": 20,
+        "productDescription": "kim2"
+    },{
+        "id":3,
+        "productName": "kim3",
+        "productImage": "images/kim3.jpg",
+        "productPrice": 5,
+        "productDescription": "Ce produit vous est recommandé !"
+    },
+
+    {
+        "id":4,
+        "productName": "kim4",
+        "productImage": "images/kim4.jpg",
+        "productPrice": 20,
+        "productDescription": "kim4"
+    },
+    {
+        "id":5,
+        "productName": "kim5",
+        "productImage": "images/kim5.jpg",
+        "productPrice": 15,
+        "productDescription": "Ce produit vous est recommandé !"
+    },
+
+    {
+        "id":6,
+        "productName": "kim6",
+        "productImage": "images/kim6.jpg",
+        "productPrice": 200,
+        "productDescription": "kim6"
+    },
+    {
+        "id":7,
+        "productName": "kim7",
+        "productImage": "images/kim7.jpg",
+        "productPrice": 115,
+        "productDescription": "Ce produit vous est recommandé !"
+    },
+
+    {
+        "id":8,
+        "productName": "kim8",
+        "productImage": "images/kim8.jpg",
+        "productPrice": 240,
+        "productDescription": "kim8"
+    },
+    {
+        "id":9,
+        "productName": "kim9",
+        "productImage": "images/kim9.jpg",
+        "productPrice":75,
+        "productDescription": "Ce produit vous est recommandé !"
+    },
+
+    {
+        "id":10,
+        "productName": "kim10",
+        "productImage": "images/kim10.jpg",
+        "productPrice": 260,
+        "productDescription": "kim10"
+    },
+]
